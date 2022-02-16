@@ -19,6 +19,8 @@ public class Staffinfo {
 // スタッフのyamadaと宣言したことでその後new Staffで、『新しくyクラスを生成します』という意味
 		/*
 		 * 	『クラス　変数名　＝　new クラス名（引数）』
+		 * クラス　＝　プログラムの部品のテンプレート
+		 * インスタンス　＝　テンプレートから作った実際の部品
 		 */
 		Staff yamada = new Staff();
 // ↓でフィールドに値（nameというフィールドにTaro Yamada）を追加した
