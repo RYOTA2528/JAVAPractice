@@ -14,7 +14,9 @@ public class javasample {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		System.out.println("Hello Eclipse! ");
+		
+		//		(エスケープ文字について):\nで改行コードになる
+		System.out.println("Hello Eclipse!\nIt's Tuseday today!");
 
 		
 	}
