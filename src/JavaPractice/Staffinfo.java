@@ -19,7 +19,7 @@ class Staff {
 
 public class Staffinfo {
 	
-//↓がメソッドの定義
+//↓がメソッドの定義.
 	public static void main(String[] args) {
 /* 　【アクセス修飾子】
  * public 他のクラスからアクセス可能
