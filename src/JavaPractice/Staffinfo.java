@@ -9,10 +9,9 @@ class Staff {
 	String email;
 // sayhelloというメソッドを定義した。
 // コンソール処理をclassの中に定義した
-//【重要】ここでいうthis=Staffのこと
+//【重要】ここでいうthis=Staffのこと。
 	public void sayhello() {
-		System.out.println("Hello " + this.name);
-		
+		System.out.println("Hello " + this.name);		
 	}
 }
 
