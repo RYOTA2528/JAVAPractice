@@ -103,8 +103,12 @@ public class studynote {
  * 				・true || false => true
  * 				・false || true => true
  * 　　　　　　 ・false || false => false
- * 
- * 
+ *  
+ *  『コレクションフレームワーク』について
+ * 		・ネット記事より学習（参考サイト：https://ittoybox.com/archives/206）
+ * 		・コレクションとは複数の要素の集まりのことです。その要素の集まりを扱う機能なのでコレクションフレームワークと言います。
+ * 　　   コレクションフレームワークでは複数の要素（データ）を扱うための便利機能を提供します
+ * 		・List・Map・Setのそれぞれがある。
  * 
  *  
  *   
