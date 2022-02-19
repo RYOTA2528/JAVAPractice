@@ -103,6 +103,14 @@ public class studynote {
  * 				・true || false => true
  * 				・false || true => true
  * 　　　　　　 ・false || false => false
+ * 
+ *  反転『NOT演算子』
+ *  （使用用途）あるオブジェクトに値が入ってるかどうか、ファイルが存在するか、ある条件を満たしたら
+ *  	
+ *  		!X
+ *  		!true => false
+ *  		!false => true
+ *  
  *  
  *  『コレクションフレームワーク』について
  * 		・ネット記事より学習（参考サイト：https://ittoybox.com/archives/206）
