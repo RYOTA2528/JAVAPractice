@@ -104,13 +104,29 @@ public class studynote {
  * 				・false || true => true
  * 　　　　　　 ・false || false => false
  * 
- *  反転『NOT演算子』
+ *  『反転（NOT演算子）』
  *  （使用用途）あるオブジェクトに値が入ってるかどうか、ファイルが存在するか、ある条件を満たしたら
  *  	
  *  		!X
  *  		!true => false
  *  		!false => true
  *  
+ *  『Switch文について』
+ *  　複数の処理に合わせ条件ごとに異なる処理をする
+ *  　　　(ex)6と入れるとJuneと表示される
+ *  　　　　　switch(条件:6){
+ *  			case value1:
+ *  			   (処理1)
+ *  			  break;
+ *  		 	case value2:
+ *  			   (処理2):
+ *  			  break;
+ *       	・・・・
+ *       
+ *         default:
+ *           (あてはまらない場合の処理）
+ *           break;
+ *        }
  *  
  *  『コレクションフレームワーク』について
  * 		・ネット記事より学習（参考サイト：https://ittoybox.com/archives/206）
