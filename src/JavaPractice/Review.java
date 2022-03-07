@@ -51,6 +51,24 @@ public class Review {
 		System.out.print("面積＝");  
 		System.out.println(area);   //練習用。円の面積を求める問題。
 		
+		int z = 10;
+		++z;    // 復習：インクリメント（１だけ増やす）z=z+1と同じ意味
+		--z;   // 復習：　デクリメント（１だけ減らす））z=z-1と同じ意味
+		System.out.println(z);
+		
+		int ans, q;
+		
+		q=10;
+//		ans = ++q;　
+		ans =q++; //前置と後置の違いとして、後置の場合はqに１を足す前の値がansに代入される。（つまり10を先に返す）
+		System.out.println(q);
+		System.out.println(ans);
+		
+		//文字列型の出力での注意点
+		String s1 = 3+ 5+ "こんにちは";
+		String s2 =  "こんにちは"+3+5;
+	    System.out.println(s1);
+	    System.out.println(s2);  //文字列が最初にある時点でこんにちは3 となりそこに+5をしてるのでこんにちは35となる。
 		
 	}
 
