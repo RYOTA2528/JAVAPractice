@@ -5,4 +5,4 @@
 開発環境： GoogleColaboratory<br/> 
 学習教材： Udemy、 新わかりやすいJAVA入門編<br/>
 講座名: 【 5日でできる】はじめての Java プログラミング入門　講師:井上 博樹 Inoue Hiroki<br/>
-
+補足：libパッケージはinputクラス・Bitクラスインポート用になります。<br/>
