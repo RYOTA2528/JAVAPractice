@@ -73,6 +73,7 @@ public class Review {
 	    //キャスト演算子について(小数点を切り捨てたいときに使う)
 	    int number1 = (int)10.5;  //プログラマの責任で強制的に型を変換できる。これをキャスト演算子という
 	    System.out.println("10.5をint型へキャストした値=" + number1);  //この結果、numberには10.5ではなくintの10だけが表示される。
+	    
 		
 	}
 
