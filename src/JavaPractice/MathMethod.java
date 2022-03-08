@@ -56,4 +56,4 @@ public class MathMethod {
 // double sqrt(double a) ---引数aの平方根を返す。（）の中身が引数で左側のdoubleが戻り値。
 
 //【重要】このような表し方をＡＰＩという。
-     //名前：Mathクラスのsqrtメソッド,機能:引数aの平方根を返す。引数:double型の引数が１つある。戻り値型:戻り値はdouble型。
+     //名前：Mathクラスのsqrtメソッド,機能:引数aの平方根を返す。引数:double型の引数が１つある。戻り値型:戻り値はdouble型。。
