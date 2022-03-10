@@ -13,7 +13,7 @@ public class InputMethod {
 		System.out.println("平方根＝" + z);
 		
 		//文字列の入力
-		String name = Input.getString();
+		String name = Input.getString("お名前は");
 		System.out.println("こんにちは"+name+"さん");
 		
 
