@@ -12,6 +12,10 @@ public class InputMethod {
 		double z = Math.sqrt(y);
 		System.out.println("平方根＝" + z);
 		
+		//文字列の入力
+		String name = Input.getString();
+		System.out.println("こんにちは"+name+"さん");
+		
 
 	}
 
